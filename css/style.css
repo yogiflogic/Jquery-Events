@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+}
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.kotak1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 5px;
+    transition: all 1s;
+}
+
+.kotak2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 255, 0);
+    border-radius: 5px;
+}
+.kotak3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(187, 58, 238);
+    border-radius: 5px;
+}
